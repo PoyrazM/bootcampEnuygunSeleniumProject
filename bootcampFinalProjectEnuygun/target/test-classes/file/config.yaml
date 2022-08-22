@@ -1,0 +1,8 @@
+url :
+  https://www.enuygun.com/
+implicitlyWait :
+  10
+pageLoadTimeout :
+  8
+browser :
+  chrome
